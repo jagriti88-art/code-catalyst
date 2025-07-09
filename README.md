@@ -9,7 +9,7 @@
 
 ## 🚀 Project Overview
 
-**MockUp** is an advanced full-stack application that allows users to create and conduct interviews using an AI-powered recruiter voice agent. Whether you’re building for HR automation or exploring AI-enabled voice assistants, this platform is the perfect starting point to bring your ideas to life.  
+**HireQuest** is an advanced full-stack application that allows users to create and conduct interviews using an AI-powered recruiter voice agent. Whether you’re building for HR automation or exploring AI-enabled voice assistants, this platform is the perfect starting point to bring your ideas to life.  
 
 From creating custom interview flows to deploying an interactive voice experience with **Vapi**, this project showcases the modern tech stack in action.
 
