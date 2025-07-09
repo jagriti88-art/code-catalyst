@@ -1,4 +1,4 @@
-<h1 align="center">MockUp</h1>
+<h1 align="center">HireQuest AI</h1>
 
 <p align="center">
   <b>AI-Powered Voice Interview Agent for Recruitment</b><br/>
